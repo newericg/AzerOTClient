@@ -6345,3 +6345,16 @@
 [ 2023-05-23 00:04:50,176 ] Using spritesheet cache size of 910
 [ 2023-05-23 00:04:51,392 ] Asset loading complete
 [ 2023-05-23 00:04:51,709 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:40:52,386 ] Using spritesheet cache size of 910
+[ 2023-05-23 18:40:56,805 ] Asset loading complete
+[ 2023-05-23 18:41:11,023 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:41:12,070 ] BattlEye: "Initialized (v1.249)"
+[ 2023-05-23 18:41:12,070 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-05-23 18:41:12,070 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-05-23 18:41:12,140 ] Request connection to gameserver  "tcp://15.229.97.208:7172"  (unprotected:  "tcp://15.229.97.208:7172" )  requested (Charakter "Develop" )
+[ 2023-05-23 18:41:12,147 ] Request connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-23 18:41:12,174 ] Connected to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-23 18:41:12,230 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-05-23 18:41:12,235 ] Disconnected from gameserver
+[ 2023-05-23 18:41:13,207 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:41:22,027 ] News query failed: "Unrecognized event news."
