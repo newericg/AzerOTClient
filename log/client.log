@@ -6358,3 +6358,22 @@
 [ 2023-05-23 18:41:12,235 ] Disconnected from gameserver
 [ 2023-05-23 18:41:13,207 ] News query failed: "Unrecognized event news."
 [ 2023-05-23 18:41:22,027 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:50:44,687 ] Using spritesheet cache size of 910
+[ 2023-05-23 18:50:45,991 ] Asset loading complete
+[ 2023-05-23 18:50:46,270 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:50:55,361 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:50:55,564 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:50:55,646 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:50:56,498 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:50:56,948 ] BattlEye: "Initialized (v1.249)"
+[ 2023-05-23 18:50:56,948 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-05-23 18:50:56,948 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-05-23 18:50:57,010 ] Request connection to gameserver  "tcp://15.229.97.208:7172"  (unprotected:  "tcp://15.229.97.208:7172" )  requested (Charakter "GOD Fujin" )
+[ 2023-05-23 18:50:57,018 ] Request connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-23 18:50:57,046 ] Connected to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-23 18:50:57,946 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-05-23 18:50:57,947 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-05-23 18:50:58,096 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:55:02,822 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-05-23 18:55:02,872 ] Disconnected from gameserver
+[ 2023-05-23 18:55:03,238 ] News query failed: "Unrecognized event news."
