@@ -6340,3 +6340,8 @@
 [ 2023-05-22 18:20:21,954 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
 [ 2023-05-22 18:20:22,000 ] Disconnected from gameserver
 [ 2023-05-22 18:20:22,371 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 00:04:33,682 ] Using spritesheet cache size of 910
+[ 2023-05-23 00:04:37,751 ] Asset loading complete
+[ 2023-05-23 00:04:50,176 ] Using spritesheet cache size of 910
+[ 2023-05-23 00:04:51,392 ] Asset loading complete
+[ 2023-05-23 00:04:51,709 ] Could not find Sound Effect ID 688
