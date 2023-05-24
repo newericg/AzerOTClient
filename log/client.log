@@ -6377,3 +6377,38 @@
 [ 2023-05-23 18:55:02,822 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
 [ 2023-05-23 18:55:02,872 ] Disconnected from gameserver
 [ 2023-05-23 18:55:03,238 ] News query failed: "Unrecognized event news."
+[ 2023-05-23 18:57:49,274 ] Using spritesheet cache size of 910
+[ 2023-05-23 18:57:50,582 ] Asset loading complete
+[ 2023-05-23 18:57:50,924 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:57:52,519 ] Could not find Sound Effect ID 688
+[ 2023-05-23 18:57:52,637 ] Could not find Sound Effect ID 688
+[ 2023-05-24 01:26:34,783 ] Using spritesheet cache size of 910
+[ 2023-05-24 01:26:38,387 ] Asset loading complete
+[ 2023-05-24 01:27:04,958 ] News query failed: "Unrecognized event news."
+[ 2023-05-24 01:27:07,463 ] BattlEye: "Initialized (v1.249)"
+[ 2023-05-24 01:27:07,463 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-05-24 01:27:07,463 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-05-24 01:27:07,524 ] Request connection to gameserver  "tcp://15.229.97.208:7172"  (unprotected:  "tcp://15.229.97.208:7172" )  requested (Charakter "GOD Fujin" )
+[ 2023-05-24 01:27:07,531 ] Request connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:27:07,559 ] Connected to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:27:08,460 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-05-24 01:27:08,460 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-05-24 01:27:08,610 ] News query failed: "Unrecognized event news."
+[ 2023-05-24 01:28:03,713 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-05-24 01:28:03,775 ] Disconnected from gameserver
+[ 2023-05-24 01:28:04,149 ] News query failed: "Unrecognized event news."
+[ 2023-05-24 01:30:51,213 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://15.229.97.208/login.php") ) due to too many retries.
+[ 2023-05-24 01:30:53,686 ] Request connection to gameserver  "tcp://15.229.97.208:7172"  (unprotected:  "tcp://15.229.97.208:7172" )  requested (Charakter "GOD Fujin" )
+[ 2023-05-24 01:30:53,689 ] Request connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:30:53,711 ] Connected to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:30:54,663 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://15.229.97.208/login.php") ) due to too many retries.
+[ 2023-05-24 01:31:31,659 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-05-24 01:31:31,711 ] Disconnected from gameserver
+[ 2023-05-24 01:31:31,749 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://15.229.97.208/login.php") ) due to too many retries.
+[ 2023-05-24 01:31:32,395 ] Request connection to gameserver  "tcp://15.229.97.208:7172"  (unprotected:  "tcp://15.229.97.208:7172" )  requested (Charakter "GOD Fujin" )
+[ 2023-05-24 01:31:32,399 ] Request connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:31:32,426 ] Connected to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"
+[ 2023-05-24 01:31:33,361 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://15.229.97.208/login.php") ) due to too many retries.
+[ 2023-05-24 01:31:34,910 ] Connection to gameserver  "tcp://15.229.97.208:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2023-05-24 01:31:34,961 ] Disconnected from gameserver
+[ 2023-05-24 01:31:35,001 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://15.229.97.208/login.php") ) due to too many retries.
